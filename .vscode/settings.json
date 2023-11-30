@@ -1,0 +1,7 @@
+{
+  "cmake.generator": "Ninja",
+  "cmake.configureOnOpen": true,
+  "cortex-debug.gdbPath": "/opt/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gdb",
+  "cortex-debug.registerUseNaturalFormat": false,
+  "cortex-debug.variableUseNaturalFormat": true,
+}
