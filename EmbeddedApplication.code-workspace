@@ -6,14 +6,14 @@
   ],
   "settings": {
 		// cmake
-    "cmake.generator": "Ninja",
-    "cmake.configureSettings": {},
-    "cmake.buildDirectory": "${workspaceFolder}/build",
-		"cmake.installPrefix": "${workspaceFolder}/install",
-		"cmake.exportCompileCommandsFile": true,
-		"cmake.configureOnOpen": false,
-		"cmake.configureOnEdit": false,
-		"cmake.parallelJobs": 8,
+    // "cmake.generator": "Ninja",
+    // "cmake.configureSettings": {},
+    // "cmake.buildDirectory": "${workspaceFolder}/build",
+		// "cmake.installPrefix": "${workspaceFolder}/install",
+		// "cmake.exportCompileCommandsFile": true,
+		// "cmake.configureOnOpen": false,
+		// "cmake.configureOnEdit": false,
+		// "cmake.parallelJobs": 1,
 		// Debugger
     "cortex-debug.gdbPath": "/opt/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gdb",
     "cortex-debug.registerUseNaturalFormat": false,
