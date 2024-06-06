@@ -16,7 +16,7 @@
         "${workspaceFolder}/build/EmbeddedApplication.elf"
       ],
       "servertype": "external",
-      "gdbTarget": "10.35.0.31:2000",
+      "gdbTarget": "host.docker.internal:2000",
       "postLaunchCommands":[
         "monitor reset"
       ],
